@@ -1,1 +1,1 @@
-# google-ads-activity-checker
+# Google-Ads-Activity-Checker
