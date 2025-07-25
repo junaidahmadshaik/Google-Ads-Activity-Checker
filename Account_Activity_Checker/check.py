@@ -4,7 +4,7 @@ import re
 import time
 from openpyxl import load_workbook
 
-st.set_page_config(page_title="Google Ads Activity Checker", layout="centered")
+st.set_page_config(page_title="Ad Group Structure & Status Analysis Tool", layout="centered")
 
 # Custom CSS to make file upload button inline with text
 st.markdown("""
