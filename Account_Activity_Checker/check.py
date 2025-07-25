@@ -81,7 +81,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("Google Ads Activity Checker")
+st.title("Ad Group Structure & Status Analysis Tool")
 st.header("Upload Files")
 
 # Create inline upload sections
